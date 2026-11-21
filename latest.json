@@ -1,0 +1,12 @@
+{
+ "version": "2.15.0",
+ "codename": "Native",
+ "file": "makerai-os-update-2.15.0.mkupdate",
+ "sha256": "e04c652222d6ba5ab675254fb6e56c29bc216d3158995e1c064ca38b1709c8e4",
+ "notes": [
+  "MakerAI Files: a new file manager made for MakerAI",
+  "MakerAI Archive: zip and unzip",
+  "An all-MakerAI app menu"
+ ],
+ "url": "https://raw.githubusercontent.com/izdagoatminecraft-ctrl/makerai-os-updates/main/makerai-os-update-2.15.0.mkupdate"
+}
