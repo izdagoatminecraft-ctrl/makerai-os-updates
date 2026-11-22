@@ -1,12 +1,11 @@
 {
- "version": "2.15.0",
- "codename": "Native",
- "file": "makerai-os-update-2.15.0.mkupdate",
- "sha256": "e04c652222d6ba5ab675254fb6e56c29bc216d3158995e1c064ca38b1709c8e4",
+ "version": "2.16.0",
+ "codename": "Office",
+ "file": "makerai-os-update-2.16.0.mkupdate",
+ "sha256": "29fa5333342facf5cc94b8576bd6d55096545a523158ff21e3a04304b4350907",
  "notes": [
-  "MakerAI Files: a new file manager made for MakerAI",
-  "MakerAI Archive: zip and unzip",
-  "An all-MakerAI app menu"
+  "MakerAI Write, Sheet and Slides: Office made for MakerAI",
+  "Word, Excel and PowerPoint files open in MakerAI's own apps"
  ],
- "url": "https://raw.githubusercontent.com/izdagoatminecraft-ctrl/makerai-os-updates/main/makerai-os-update-2.15.0.mkupdate"
+ "url": "https://raw.githubusercontent.com/izdagoatminecraft-ctrl/makerai-os-updates/main/makerai-os-update-2.16.0.mkupdate"
 }
